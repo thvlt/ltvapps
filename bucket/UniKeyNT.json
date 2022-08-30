@@ -1,0 +1,15 @@
+{
+    "version": "4.2.4",
+    "description": "UniKeyNT",
+    "homepage": "https://laptrinhnhi.github.io/",
+    "license": "MIT",
+    "url": "https://github.com/thvlt/d8/releases/download/0.1/UniKeyNT.zip",
+    "extract_dir": "UniKeyNT",
+    "bin": "UniKeyNT.exe",
+    "shortcuts": [
+        [
+            "UniKeyNT.exe",
+            "UniKeyNT"
+        ]
+    ]
+}

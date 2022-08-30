@@ -1,0 +1,15 @@
+{
+    "version": "1.0.0",
+    "description": "MonkeyMath",
+    "homepage": "http://www.scoop.sh",
+    "license": "MIT",
+    "url": "https://github.com/thvlt/d8/releases/download/0.2/MonkeyMath.zip",
+    "extract_dir": "MonkeyMath",
+    "bin": "MonkeyMath.exe",
+    "shortcuts": [
+        [
+            "MonkeyMath.exe",
+            "MonkeyMath"
+        ]
+    ]
+}

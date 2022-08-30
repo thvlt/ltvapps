@@ -1,0 +1,15 @@
+{
+    "version": "1.0.2",
+    "description": "TyperShark",
+    "homepage": "https://laptrinhnhi.github.io/",
+    "license": "MIT",
+    "url": "https://github.com/thvlt/d8/raw/main/TyperShark.zip",
+    "extract_dir": "TyperShark",
+    "bin": "TyperShark.exe",
+    "shortcuts": [
+        [
+            "TyperShark.exe",
+            "TyperShark"
+        ]
+    ]
+}

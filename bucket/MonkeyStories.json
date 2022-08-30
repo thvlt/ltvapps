@@ -1,0 +1,15 @@
+{
+    "version": "1.0.1",
+    "description": "MonkeyStories",
+    "homepage": "http://www.scoop.sh",
+    "license": "MIT",
+    "url": "https://github.com/thvlt/d8/raw/main/MonkeyStories.zip",
+    "extract_dir": "MonkeyStories",
+    "bin": "MonkeyStories.exe",
+    "shortcuts": [
+        [
+            "MonkeyStories.exe",
+            "MonkeyStories"
+        ]
+    ]
+}
