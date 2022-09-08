@@ -1,0 +1,15 @@
+{
+    "version": "6.5.0",
+    "description": "Logo",
+    "homepage": "http://www.flowgorithm.org/",
+    "license": "MIT",
+    "url": "https://github.com/thvlt/d8/releases/download/0.3/logo32.zip",
+    "extract_dir": "logo32",
+    "bin": "logo32.exe",
+    "shortcuts": [
+        [
+            "logo32.exe",
+            "Logo"
+        ]
+    ]
+}
